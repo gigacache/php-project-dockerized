@@ -12,7 +12,7 @@ Ready for your next php project
 ```
 make install 
 ```
-Drop your php project in ./public
+Drop your php project in `./public`
 
 ## Removal
 ```
@@ -20,5 +20,5 @@ make remove-docker
 ```
 
 ## Errors
-    -[x] Make sure docker is running
-    -[x] Make sure you can run make commands
+-[x] Make sure docker is running
+-[x] Make sure you can run make commands
